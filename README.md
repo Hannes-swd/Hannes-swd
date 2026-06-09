@@ -20,3 +20,4 @@
     <img src="https://skillicons.dev/icons?i=arch,ubuntu,windows&theme=dark" />
   </a>
 </div>
+<img src="https://dynamic-banner-eight.vercel.app/" alt="Dynamic Info" width="100%">
